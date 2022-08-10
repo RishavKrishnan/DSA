@@ -21,7 +21,7 @@ int main()
                 t++;               
             }
         }
-    printf("Shifting all the elements to one side: \n");
+    printf("Shifting all the negative elements to one side: \n");
     for(int i=0;i<7;i++)
     {
         printf("%d,",ar[i]);
